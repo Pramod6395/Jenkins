@@ -39,6 +39,15 @@ Open the   [localhost:8080](http://localhost:8080/) in th browser and put that c
 - Create First Admin user
 - Finally Jenkins is Ready
 
+## Types of Jenkins Projects:
+1. FreeStyle
+    - Simple,Single taks ( Ex: run test)
+ 
+3. Pipeline
+    - Whole dilivery cycle ( build-->test-->deploy)
+5. Multibranch pipeline
+    - Like pipeline for multiple branches
+
 
 
 
